@@ -41,10 +41,7 @@ public class StudentManager {
 
     }
 
-    public static void newStudent(GradeManager studentManager) {
-        studentManager.makeStudent();
-
-    }
+  
 
     public static int startProgram() {
         System.out.println("--Welcome to the student manager program--\nWhat do you wish to do?");
